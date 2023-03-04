@@ -6,8 +6,6 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibot55" alt="dibot55" /></a> </p>
-
 ### 🙋🏼‍♂️ About ME :
 
 - 📧 How to reach me **diebots555@gmail.com**
