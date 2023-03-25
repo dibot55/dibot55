@@ -12,7 +12,7 @@
 
 - 📄 Ask me about **Javascript, Nodejs**
 
-- 👨🏼‍💻 I'm learning **NextJS and Azure**
+- 👨🏼‍💻 I'm learning **NextJS and React**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/dibot55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibot55" height="30" width="40" /></a>
