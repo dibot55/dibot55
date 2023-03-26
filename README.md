@@ -4,8 +4,6 @@
     <h3 align = "center">I am a backend developer from Mexico</h3>
 </div>
 
----
-
 # 💫 About Me:
 
 A self-taught person, responsible and committed and always willing to learn.
@@ -43,8 +41,6 @@ A self-taught person, responsible and committed and always willing to learn.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 
----
-
 # 📊 GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibot55&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
@@ -53,7 +49,6 @@ A self-taught person, responsible and committed and always willing to learn.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibot55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## 🏆 GitHub Trophies
 
