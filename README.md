@@ -4,7 +4,7 @@
     <h3 align = "center">I am a backend developer from Mexico</h3>
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 
 A self-taught person, responsible and committed and always willing to learn.
 
@@ -19,7 +19,7 @@ A self-taught person, responsible and committed and always willing to learn.
 <a href="https://www.linkedin.com/in/dibot55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibot55" height="30" width="40" /></a>
 <a href="https://www.instagram.com/diebots50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diebots55" height="30" width="40" /></a>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -41,7 +41,7 @@ A self-taught person, responsible and committed and always willing to learn.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibot55&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 
