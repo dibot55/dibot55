@@ -2,11 +2,10 @@
     <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width = "200"/>
     <h1 align = "center"> Hi there 👋, I'm dibot55</h1>
     <h3 align = "center">I am a backend developer from Mexico</h3>
+    <h3 align = "center">A self-taught person, responsible and committed and always willing to learn.</h3>
 </div>
 
 ## 💫 About Me:
-
-A self-taught person, responsible and committed and always willing to learn.
 
 - 📧 How to reach me **diebots555@gmail.com**
 
