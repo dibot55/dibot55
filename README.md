@@ -5,13 +5,21 @@
     <h3 align = "center">A self-taught person, responsible and committed and always willing to learn.</h3>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=dibot55&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align = "center">
+    
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+    
+<div>
+
 ## 💫 About Me:
 
 - 📧 How to reach me **diebots555@gmail.com**
 
 - 📄 Ask me about **Javascript, Nodejs**
 
-- 👨🏼‍💻 I'm learning **NextJS and React**
+- 👨🏼‍💻 I'm learning **Typescript and NestJS**
 
 ## 🌐 Socials:
 
@@ -42,11 +50,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=dibot55&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📊 GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibot55&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
@@ -55,11 +58,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibot55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 🏆 GitHub Trophies
 
+<div align = "center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=dibot55&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+</div>
+
 ### ✍️ Random Dev Quote
+    
+<div align = "center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    
+</div>
 
