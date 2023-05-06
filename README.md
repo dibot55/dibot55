@@ -6,8 +6,10 @@
 </div>
 
 <div align= "center">
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diebots50) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dibot55) 
+    
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/diebots50)    
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/dibot55) 
+ 
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=dibot55&icon=0&color=0)](https://visitcount.itsvg.in)
