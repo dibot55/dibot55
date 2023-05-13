@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div id = "header" align = "center">
     <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width = "200"/>
     <h1 align = "center"> Hi there 👋, I'm dibot55</h1>
@@ -60,9 +62,11 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 
 
-## 📊 GitHub Stats:
+## 📊 Stats & Contact:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibot55&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibot55&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats) 
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dibot55" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/dibot55?trk=profile-badge">Diego Raciel Ortega Hernandez</a></div>
 
 ![dibot55 GitHub stats](https://github-readme-stats.vercel.app/api?username=dibot55&show_icons=true&theme=radical)
 
@@ -83,4 +87,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     
 </div>
-
