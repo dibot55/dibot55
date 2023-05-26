@@ -23,9 +23,9 @@
 
 - 📫 How to reach me **diebots555@gmail.com**
 
-- 💬 Ask me about **Javascript, Nodejs**
+- 💬 Ask me about **Javascript, Nodejs & TypeScript**
 
-- 🌱 I'm learning **Typescript and NestJS**
+- 🌱 I'm learning **NestJS & Docker**
 
 - 👨‍💻 All of my projects are available at [https://dibot55.netlify.app/](https://dibot55.netlify.app/)
 
